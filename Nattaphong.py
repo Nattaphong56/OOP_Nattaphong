@@ -1,0 +1,7 @@
+print("hello Python")
+print("นายณัฐพงศ์ ศรีเทพย์")
+print("นาย")
+print("19 ปี")
+print("7")
+print("67319010007")
+print("เล้นฟุตบอลและฟังเพลง")
